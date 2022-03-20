@@ -1,4 +1,4 @@
-I am a CS student in HKU.
+I am a Final Year CS student.
 
 
 <!-- 
@@ -10,7 +10,7 @@ I am a CS student in HKU.
 
   Web development
   
-  Algorithm and data structure (for interviews)
+  Algorithm and data structure
   
   Software developemnt and architecture 
  -->
