@@ -14,5 +14,5 @@ I am a Final Year CS student.
   
   Software developemnt and architecture 
  -->
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-ngchakming)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-ngchakming&layout=compact" />
